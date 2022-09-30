@@ -137,6 +137,8 @@ p {
     max-width: 150px;
 }
 
+/* The bottom three classes are the same - we may want to consolidate them in the future */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
