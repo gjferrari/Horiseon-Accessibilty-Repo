@@ -1,17 +1,21 @@
-# Horiseon
+# Horiseon-Accesibility-Repo
 
-## Description 
+## Description
 
-This repository was created for boot camp students to practice cloning a repo from github to a local machine, copy contents from different projects/repositories, and add, commit, and push all created files with git 
+This project streamlines the codebase with semantic HTML so that it meets accessibitily standards and is optimized for search engines.
 
 ## Installation
 
-N/A
+- Use the SHH key at: https://github.com/gjferrari/Horiseon-Accessibilty-Repo
+- Clone the Repo:
+  - git clone git@github.com:gjferrari/Horiseon-Accessibilty-Repo.git
+- Open Repo with VS Code or IDE of your choice
+- Open Index.html with Live Server to inspect Code
 
 ## Usage
 
-Usage for this repository has yet to be defined by course homework but most likely will store projects for week 1 
+N/A
 
-## License 
+## License
 
-Please refer to the LICENSE in the repo 
+Please refer to the LICENSE in the repo
