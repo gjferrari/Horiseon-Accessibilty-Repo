@@ -6,7 +6,7 @@ This project streamlines the codebase with semantic HTML so that it meets access
 
 ## Installation
 
-- Use the SHH key at: https://github.com/gjferrari/Horiseon-Accessibilty-Repo
+- Clone with repository: https://github.com/gjferrari/Horiseon-Accessibilty-Repo
 - Clone the Repo:
   - git clone git@github.com:gjferrari/Horiseon-Accessibilty-Repo.git
 - Open Repo with VS Code or IDE of your choice
